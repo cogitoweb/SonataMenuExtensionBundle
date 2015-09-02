@@ -1,0 +1,24 @@
+{
+	"name": "cogitoweb/sonatamenuextensionbundle",
+	"description": "Sonata Menu Extension",
+	"type": "symfony-bundle",
+	"authors": [
+		{
+			"name": "Cecilia Natale",
+			"email": "cecilia.natale@cogitoweb.it"
+		}
+	],
+	"keywords": [
+		"sonata menu bundle"
+	],
+	"autoload": {
+		"psr-0": {
+			"Cogitoweb\\SonataMenuExtensionBundle": ""
+		}
+	},
+	"require": {
+		"symfony/symfony": "~2.3",
+		"guzzlehttp/guzzle": "~5.2"
+	},
+	"target-dir" : "Cogitoweb/SonataMenuExtensionBundle"
+}
