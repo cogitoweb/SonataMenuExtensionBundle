@@ -1,0 +1,3 @@
+cogitoweb_sonata_menu_extension_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: CogitowebSonataMenuExtensionBundle:Default:index }

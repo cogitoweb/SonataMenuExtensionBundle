@@ -1,0 +1,18 @@
+#parameters:
+
+#    rotta: 'cogitoweb_sonata_menu_extension_homepage'
+#    label: 'pluto'
+#    parameters: {'name':'cecilia'}
+#    ruolo: 'ROLE_ADMIN'
+
+#services:
+
+    #cogitoweb_sonata_menu_extension:
+    #    class: Cogitoweb\SonataMenuExtensionBundle\Menu\SonataMenuExtension
+    #    arguments: 
+    #        - @router 
+#            - @security.context
+#            - %rotta% 
+#            - %label% 
+#            - %parameters%
+#            - %ruolo%
