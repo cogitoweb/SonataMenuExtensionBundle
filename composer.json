@@ -1,5 +1,5 @@
 {
-	"name": "cogitoweb/sonatamenuextensionbundle",
+	"name": "cogitoweb/sonata-menu-extension-bundle",
 	"description": "Sonata Menu Extension",
 	"type": "symfony-bundle",
 	"authors": [
